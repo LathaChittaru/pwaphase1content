@@ -1,0 +1,44 @@
+{
+	"profile":{
+		"img":"prabhas.jpg",
+		"name":"Latha Chittaru",
+		"roll":"564",
+		"institute":"pragati",
+		"place":"rajahmundry"
+	},
+	"career":{
+		"info":"to secure a job"
+	},
+	"education":[
+	
+	{
+		"s":"1",
+		"degree":"b.tech",
+		"institute":"xxxx",
+		"yop":"2020"
+},
+	{
+	"s":"2",
+		"degree":"inter",
+		"institute":"yyyy",
+		"yop":"2016"
+	
+	},
+	{
+	"s":"3",
+		"degree":"SSC",
+		"institute":"zzzz",
+		"yop":"2014"
+		
+	}
+],
+	"languages":[
+		{
+			"lang":"english"
+
+		},
+		{
+			"lang":"telugu"
+		}
+	]
+}
